@@ -81,3 +81,9 @@ Create a compiler that translates SimpleLang code into assembly code for the 8-b
 • Document the design and implementation of the compiler. 
 • Prepare a presentation to demonstrate the working of the compiler and explain design choices. 
 
+## Task Status
+
+- [ ] Lexer
+- [ ] Parser
+- [ ] Code Generation
+
